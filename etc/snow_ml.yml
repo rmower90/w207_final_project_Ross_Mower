@@ -1,0 +1,29 @@
+name: snow_ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - curl
+  - requests
+  - numpy
+  - matplotlib
+  - cartopy
+  - jupyter
+  - jupyterlab
+  - netcdf4
+  - pandas
+  - geopandas
+  - scipy
+  - xarray
+  - rioxarray
+  - pyproj
+  - seaborn
+  - dask
+  - tensorflow
+  - scikit-learn
+  - mlxtend
+  - statsmodels
+  - xarray-spatial
+  - pydotplus
+  - graphviz
